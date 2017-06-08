@@ -1,1 +1,1 @@
-Ceci est toujours le fichier bar
+Ceci est le fichier BAR
